@@ -1,4 +1,4 @@
-# Markdown Preview
+# Markdown Preview - React Source Code Submodule
 
 This is an extremely simple app that I wrote early on when learning React. Inputted text gets updated live in the Preview section through the use of React hooks and the library Marked.
 
